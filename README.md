@@ -1,6 +1,6 @@
 - 👋 Natako - 17
 - ❤️ Videogames
-- 👀 Interested in computer science, Linux and learning programming languages
+- 👀 Interested in computer science, Linux and programming languages
 - 🧠 Learned: HTML, CSS, JS, Bash and PowerShell
 - 📖 Learning: Python
 
