@@ -1,4 +1,4 @@
-- 👋 @Natako7 - 17
+- 👋 Natako - 17
 - ❤️ Videogames
 - 👀 Interested in computer science, Linux and learning programming languages
 - 🧠 Learned: HTML, CSS, JS, Bash and PowerShell
