@@ -6,10 +6,12 @@
 - 📖 Languaje learning: Python
 
 ## Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natako7&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" title="Estadísticas generales">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natako7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" title="Lenguajes más utilizados">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Natako7&theme=prussian&text_color=e0fbff&show_icons=true&hide_border=true&count_private=false&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natako7&theme=prussian&text_color=e0fbff&show_icons=true&hide_border=true&layout=compact&bg_color=00000000">
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
