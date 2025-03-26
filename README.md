@@ -1,23 +1,26 @@
+## About me
 - 👋 Natako - 17
 - ❤️ Videogames
 - 👀 Interested in computer science, Linux and programming languages
 - 🧠 Languajes learned: HTML, CSS, JS, Bash and PowerShell
+- 📖 Languaje learning: Python
 
-<p>
+## Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natako7&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" title="Estadísticas generales">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natako7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" title="Lenguajes más utilizados">
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=powershell" />
-</p>
-
-- 📖 Languaje learning: Python
-
-<p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ###### Icons with <a href="https://skillicons.dev/">Skill Icons</a>
+###### Statistics with <a href="https://gh-stats-gen.vercel.app/">GH Stats Generator (Vercel)</a>
 <!---
 Natako7/Natako7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
