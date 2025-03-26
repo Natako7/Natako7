@@ -3,11 +3,19 @@
 - 👀 Interested in computer science, Linux and programming languages
 - 🧠 Languajes learned: HTML, CSS, JS, Bash and PowerShell
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,powershell)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+</p>
 
 - 📖 Languaje learning: Python
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ###### Icons with <a href="https://skillicons.dev/">Skill Icons</a>
 <!---
