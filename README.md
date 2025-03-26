@@ -5,10 +5,11 @@
 - 🧠 Languajes learned: HTML, CSS, JS, Bash and PowerShell
 - 📖 Languaje learning: Python
 
-## Statistics
 
+
+## Statistics
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Natako7&theme=prussian&text_color=e0fbff&show_icons=true&hide_border=true&count_private=false&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Natako7&theme=prussian&text_color=e0fbff&show_icons=true&hide_border=true&count_private=false&bg_color=00000000&hide=issues,contribs">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natako7&theme=prussian&text_color=e0fbff&show_icons=true&hide_border=true&layout=compact&bg_color=00000000">
 </p>
 
