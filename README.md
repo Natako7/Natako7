@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=powershell" />
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
 ###### Icons with <a href="https://skillicons.dev/">Skill Icons</a>
