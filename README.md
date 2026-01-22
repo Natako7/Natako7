@@ -2,7 +2,7 @@
 - 👋 Natako - 17
 - ❤️ Videogames
 - 🧠 Learned: HTML, CSS, JS, Bash and PowerShell
-- 📖 Learning: C, Java
+- 📖 Learning: C, Java and SQL (MySQL and SQL SERVER)
 
 
 
