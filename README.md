@@ -1,9 +1,8 @@
 ## About me
 - 👋 Natako - 17
 - ❤️ Videogames
-- 👀 Interested in computer science, Linux and programming languages
-- 🧠 Languajes learned: HTML, CSS, JS, Bash and PowerShell
-- 📖 Languaje learning: Python
+- 🧠 Learned: HTML, CSS, JS, Bash and PowerShell
+- 📖 Learning: C, Java
 
 
 
